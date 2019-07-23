@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    println!("gs-ownership!");
+    let _s:&str = "Hello";
 }
